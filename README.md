@@ -199,8 +199,8 @@ regex	"^(\\d{8})$"
     - [x] Área geográfica
     - [x] Link para o maps
 - [x] Responsividade da tela
-- [] Melhorar o design
-- [] Rodapé
+- [ ] Melhorar o design
+- [ ] Rodapé
 
 ## Contatos
 
